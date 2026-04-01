@@ -2,7 +2,7 @@
   "name": "postrboard",
   "displayName": "Postrboard",
   "description": "A VS Code theme in light and dark variants, inspired by the PostrBoard.com color palette — coral, azure, and sage with WCAG AA accessible contrast.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "burkeholland",
   "license": "MIT",
   "icon": "./images/icon.png",

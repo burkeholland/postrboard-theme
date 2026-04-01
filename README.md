@@ -1,6 +1,6 @@
 # Postrboard
 
-A VS Code color theme in **light** and **dark** variants, inspired by the [PostrBoard.com](https://postrboard.com) color palette.
+A VS Code color theme in **light** and **dark** variants for those who prefer things that are beautiful.
 
 
 ![Postrboard Light Theme](https://raw.githubusercontent.com/burkeholland/postrboard-theme/main/images/screenshot-light.png)
