@@ -1,9 +1,15 @@
 {
   "name": "postrboard",
   "displayName": "Postrboard",
-  "description": "A light, airy VS Code theme inspired by the PostrBoard.com color palette — coral, azure, and sage with WCAG AA accessible contrast.",
+  "description": "A VS Code theme in light and dark variants, inspired by the PostrBoard.com color palette — coral, azure, and sage with WCAG AA accessible contrast.",
   "version": "0.1.0",
-  "publisher": "postrboard",
+  "publisher": "burkeholland",
+  "license": "MIT",
+  "icons": "./images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burkeholland/postrboard-theme"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
@@ -13,6 +19,7 @@
   "keywords": [
     "theme",
     "light",
+    "dark",
     "color-theme",
     "postrboard",
     "coral",
@@ -25,7 +32,15 @@
         "label": "Postrboard",
         "uiTheme": "vs",
         "path": "./themes/Postrboard-color-theme.json"
+      },
+      {
+        "label": "Postrboard Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Postrboard Dark-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.1"
   }
 }
