@@ -3,9 +3,9 @@
 A VS Code color theme in **light** and **dark** variants, inspired by the [PostrBoard.com](https://postrboard.com) color palette.
 
 
-![Postrboard Theme Screenshot](./images/screenshot-light.png)
+![Postrboard Light Theme](https://raw.githubusercontent.com/burkeholland/postrboard-theme/main/images/screenshot-light.png)
     
-![Postrboard Theme Screenshot](./images/screenshot-dark.png)
+![Postrboard Dark Theme](https://raw.githubusercontent.com/burkeholland/postrboard-theme/main/images/screenshot-dark.png)
 
 ## Color Palette
 
