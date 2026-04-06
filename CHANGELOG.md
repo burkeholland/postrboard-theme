@@ -4,6 +4,12 @@ All notable changes to the "postrboard" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.4] - 2026-04-06
+
+### Fixed
+- Added statusBarItem hover, active, and prominent colors to both light and dark themes to replace jarring default grey highlights
+- Added debuggingBorder to both themes for a polished debug state
+
 ## [0.1.0] - 2026-04-01
 
 ### Added

@@ -1,7 +1,6 @@
 # Postrboard
 
-A VS Code color theme in **light** and **dark** variants for those who prefer things that are beautiful.
-
+A VS Code color theme in **light** and **dark** variants for those who prefer things that are aesthetically beautiful.
 
 ![Postrboard Light Theme](https://raw.githubusercontent.com/burkeholland/postrboard-theme/main/images/screenshot-light.png)
     
