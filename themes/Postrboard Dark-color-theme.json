@@ -86,7 +86,12 @@
         "statusBar.border": "#2a2d3d",
         "statusBar.debuggingBackground": "#fb8a4d",
         "statusBar.debuggingForeground": "#ffffff",
+        "statusBar.debuggingBorder": "#ea580c",
         "statusBar.noFolderBackground": "#16171f",
+        "statusBarItem.hoverBackground": "#2a2d3d80",
+        "statusBarItem.activeBackground": "#2a2d3d",
+        "statusBarItem.prominentBackground": "#38bdf812",
+        "statusBarItem.prominentHoverBackground": "#38bdf820",
 
         "titleBar.activeBackground": "#16171f",
         "titleBar.activeForeground": "#e2e8f0",
