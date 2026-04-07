@@ -189,7 +189,7 @@
     "quickInputList.focusBackground": "#bae6fd50",
     "banner.background": "#e2e8f0",
     "banner.foreground": "#111827",
-    "chat.requestBackground": "#fef9f5"
+    "chat.requestBackground": "#ffffff"
   },
   "tokenColors": [
     {
