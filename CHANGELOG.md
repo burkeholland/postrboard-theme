@@ -4,6 +4,11 @@ All notable changes to the "postrboard" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.5] - 2026-04-09
+
+### Fixed
+- Added `chat.requestBubbleBackground` to both light and dark themes so user chat bubbles display the intended slate blue color
+
 ## [0.1.4] - 2026-04-06
 
 ### Fixed
