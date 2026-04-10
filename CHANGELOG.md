@@ -4,10 +4,11 @@ All notable changes to the "postrboard" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.1.5] - 2026-04-09
+## [0.1.6] - 2026-04-10
 
 ### Fixed
-- Added `chat.requestBubbleBackground` to both light and dark themes so user chat bubbles display the intended slate blue color
+- Updated chat bubble colors to be more clearly blue: light theme now uses `#bae6fd` (sky-200 from palette), dark theme uses `#1a2540` (deep navy)
+- Added `chat.requestBubbleHoverBackground` to both themes for distinct hover state
 
 ## [0.1.4] - 2026-04-06
 
