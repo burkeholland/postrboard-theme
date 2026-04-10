@@ -15,7 +15,7 @@
     "editor.wordHighlightStrongBackground": "#fed7aa60",
     "editor.findMatchBackground": "#fed7aa",
     "editor.findMatchHighlightBackground": "#fef3c7",
-    "editor.rangeHighlightBackground": "#f1f5f980",
+    "editor.rangeHighlightBackground": "#fef3c720",
     "editorCursor.foreground": "#0284c7",
     "editorWidget.background": "#f1f5f9",
     "editorWidget.border": "#cbd5e1",
