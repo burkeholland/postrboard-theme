@@ -4,6 +4,12 @@ All notable changes to the "postrboard" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2026.416.1] - 2026-04-16
+
+### Fixed
+- Restored CalVer versioning (YYYY.MMDD.ITERATION) — previous commits accidentally reverted to semver, causing marketplace version mismatch
+- Updated range highlight to warm amber
+
 ## [0.1.6] - 2026-04-10
 
 ### Fixed
