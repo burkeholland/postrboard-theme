@@ -1,5 +1,7 @@
 # Postrboard
 
+[![Built with Copilot](https://img.shields.io/badge/-Built%20with%20Copilot-ffffff?style=flat&logo=githubcopilot&logoColor=333333)](https://github.com/features/copilot)
+
 A VS Code color theme in **light** and **dark** variants for those who prefer things that are aesthetically beautiful.
 
 ![Postrboard Light Theme](https://raw.githubusercontent.com/burkeholland/postrboard-theme/main/images/screenshot-light.png)
